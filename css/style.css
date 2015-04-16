@@ -1,0 +1,16 @@
+.jumbotron .container {
+	height: 0px !important;
+}
+
+a {
+	text-decoration: none !important;
+}
+
+button {
+	height: 20px !important;
+}
+
+.glyphicon-none:before {
+    content: "\2122";
+    color: transparent !important;
+}
